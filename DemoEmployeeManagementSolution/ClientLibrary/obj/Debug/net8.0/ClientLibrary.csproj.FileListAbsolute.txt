@@ -1,0 +1,12 @@
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
