@@ -1,0 +1,12 @@
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\sourabh Personal\Employee\Employee-Management-System\DemoEmployeeManagementSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
